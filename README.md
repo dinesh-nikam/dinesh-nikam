@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Nikam</h1>
-<h3 align="center">A dedicated Computer Engineering student with practical experience in software development, including an impactful internship focused on improving data analysis and code quality. Has successfully led projects such as a real time face detection using machine learning in ATM System and the IPrecon  app, showcasing expertise in React, Angular, and the MERN stack. Proficient in various programming languages and equipped with certifications in CLoud, C++, and WebDevelopment , demonstrating readiness for advanced software development roles.</h3>
+<h3 align="center">A dedicated IT Engineering student with practical experience in software development, including an impactful internship focused on improving data analysis and code quality. Has successfully led projects such as a real time face detection using machine learning in ATM System and the IPrecon  app, showcasing expertise in React, Angular, and the MERN stack. Proficient in various programming languages and equipped with certifications in CLoud, C++, and WebDevelopment , demonstrating readiness for advanced software development roles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushannalawade&label=Profile%20views&color=0e75b6&style=flat" alt="bhushannalawade" /> </p>
 
