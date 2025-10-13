@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Dinesh Nikam</h1>
 <h3 align="center">A dedicated IT Engineering Graduate with practical experience in software development, including an impactful internship focused on improving data analysis and code quality. Has successfully led projects such as a real time face detection using machine learning in ATM System and the IPrecon  app, showcasing expertise in React, Angular, and the MERN stack. Proficient in various programming languages and equipped with certifications in CLoud, C++, and WebDevelopment , demonstrating readiness for advanced software development roles.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushannalawade&label=Profile%20views&color=0e75b6&style=flat" alt="bhushannalawade" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-nikam&label=Profile%20views&color=0e75b6&style=flat" alt="DineshNikam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushannalawade" alt="bhushannalawade" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-nikam&theme=light" alt="DineshNikam" /></a> </p>
 
 - 🔭 I’m currently working on **JAVA**
 
