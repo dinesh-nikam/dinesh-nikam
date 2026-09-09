@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-nikam&label=Profile%20views&color=0e75b6&style=flat" alt="DineshNikam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-nikam&theme=light" alt="DineshNikam" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-nikam&theme=light" alt="DineshNikam" /></a> </p> -->
 
 - 🔭 I’m currently working on **JAVA**
 
@@ -36,5 +36,6 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dinesh-nikam&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dinesh-nikam&theme=tokyonight)
+<br>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dinesh-nikam&layout=compact&theme=tokyonight)
 
